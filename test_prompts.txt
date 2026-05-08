@@ -1,0 +1,417 @@
+# GRC System Generator — Enterprise Test Scenarios
+
+Use these scenarios to fully test the capabilities of your Opal multi-agent GRC workflow.
+
+These prompts are intentionally detailed so the system is forced to:
+
+* generate realistic enterprise inventories
+* create meaningful risk registers
+* calculate risk scores
+* generate control libraries
+* map evidence requirements
+* produce compliance matrices
+* synthesize executive dashboards
+* generate policy recommendations
+* produce enterprise-grade GRC reporting
+
+The goal is to stress-test:
+
+* multi-agent orchestration
+* context retention
+* cross-agent dependency handling
+* structured governance generation
+* enterprise realism
+* compliance reasoning
+* risk prioritization
+* executive reporting quality
+
+---
+
+# TEST SCENARIO 1 — GLOBAL HEALTHCARE ENTERPRISE
+
+## Organization Industry
+
+Global Healthcare Provider
+
+## Organization Size
+
+18,000 employees across North America and Europe
+
+## Regulatory Environment
+
+HIPAA, HITRUST, ISO 27001, SOC 2 Type II, GDPR
+
+## Cloud Providers
+
+AWS, Microsoft Azure
+
+## Critical Systems
+
+* Electronic Medical Records (EMR)
+* Radiology Systems
+* Identity Federation Services
+* Patient Billing Platform
+* Clinical IoT Monitoring Devices
+* VPN Infrastructure
+* Active Directory
+* Microsoft Entra ID
+* Kubernetes Production Cluster
+
+## Data Classifications
+
+* Protected Health Information (PHI)
+* Payment Card Data
+* Internal Administrative Data
+* Research Data
+* Highly Restricted Clinical Data
+
+---
+
+# TEST SCENARIO 2 — GLOBAL FINTECH PLATFORM
+
+## Organization Industry
+
+Financial Technology / Digital Banking
+
+## Organization Size
+
+7,500 employees operating in 14 countries
+
+## Regulatory Environment
+
+PCI-DSS, SOC 2, ISO 27001, FFIEC, GLBA
+
+## Cloud Providers
+
+AWS, Google Cloud Platform
+
+## Critical Systems
+
+* Core Banking APIs
+* Fraud Detection Platform
+* Real-Time Payment Engine
+* Customer Authentication Services
+* Kubernetes Transaction Clusters
+* SIEM Platform
+* Kafka Event Pipelines
+* IAM Infrastructure
+* HSM Infrastructure
+
+## Data Classifications
+
+* Cardholder Data
+* Financial Transactions
+* Customer PII
+* Internal Risk Analytics
+* Restricted Cryptographic Material
+
+---
+
+# TEST SCENARIO 3 — DEFENSE CONTRACTOR
+
+## Organization Industry
+
+Defense & Aerospace Contractor
+
+## Organization Size
+
+22,000 employees with classified engineering divisions
+
+## Regulatory Environment
+
+CMMC Level 2, NIST 800-171, ITAR, DFARS, ISO 27001
+
+## Cloud Providers
+
+AWS GovCloud, Azure Government
+
+## Critical Systems
+
+* Satellite Telemetry Systems
+* Secure Engineering Repositories
+* Classified Network Segments
+* Active Directory Forests
+* Secure VPN Gateways
+* Identity Federation Services
+* Threat Intelligence Platform
+* Endpoint Detection Infrastructure
+* Secure Kubernetes Research Clusters
+
+## Data Classifications
+
+* Controlled Unclassified Information (CUI)
+* Export Controlled Data
+* Classified Engineering Data
+* Threat Intelligence Data
+* Restricted Satellite Telemetry
+
+---
+
+# TEST SCENARIO 4 — GLOBAL MANUFACTURING COMPANY
+
+## Organization Industry
+
+Industrial Manufacturing & Supply Chain
+
+## Organization Size
+
+35,000 employees across 9 manufacturing plants
+
+## Regulatory Environment
+
+ISO 27001, NIST CSF, SOC 2
+
+## Cloud Providers
+
+Microsoft Azure
+
+## Critical Systems
+
+* ERP Platform
+* SCADA Systems
+* Plant OT Networks
+* Identity Services
+* Vendor Management Platform
+* Manufacturing Execution Systems
+* Cloud Analytics Platform
+* Active Directory
+* Remote Access Infrastructure
+
+## Data Classifications
+
+* Operational Technology Data
+* Manufacturing Blueprints
+* Vendor Contracts
+* Internal Financial Data
+* Restricted Production Telemetry
+
+---
+
+# TEST SCENARIO 5 — SaaS AI COMPANY
+
+## Organization Industry
+
+AI SaaS Platform Provider
+
+## Organization Size
+
+2,400 employees globally
+
+## Regulatory Environment
+
+SOC 2 Type II, ISO 27001, GDPR
+
+## Cloud Providers
+
+AWS, Cloudflare
+
+## Critical Systems
+
+* Multi-Tenant Kubernetes Clusters
+* LLM Inference APIs
+* Identity Provider
+* CI/CD Pipelines
+* Cloudflare Edge Infrastructure
+* Internal Developer Platform
+* Logging & Telemetry Systems
+* Customer Data Platform
+* Vector Database Infrastructure
+
+## Data Classifications
+
+* Customer Proprietary Data
+* AI Training Data
+* Authentication Tokens
+* Internal Source Code
+* Confidential ML Models
+
+---
+
+# TEST SCENARIO 6 — UNIVERSITY RESEARCH NETWORK
+
+## Organization Industry
+
+Higher Education & Research
+
+## Organization Size
+
+52,000 students and staff
+
+## Regulatory Environment
+
+FERPA, HIPAA, NIST CSF
+
+## Cloud Providers
+
+Azure, AWS
+
+## Critical Systems
+
+* Student Information System
+* Research Clusters
+* HPC Infrastructure
+* Identity Federation
+* Email Systems
+* Learning Management Platform
+* Medical Research Systems
+* Campus VPN
+* Wireless Infrastructure
+
+## Data Classifications
+
+* Student Records
+* Research Data
+* Medical Research Data
+* Internal Academic Records
+* Public Educational Content
+
+---
+
+# TEST SCENARIO 7 — ENERGY & UTILITIES OPERATOR
+
+## Organization Industry
+
+Critical Infrastructure / Energy Provider
+
+## Organization Size
+
+12,000 employees
+
+## Regulatory Environment
+
+NERC CIP, ISO 27001, NIST CSF
+
+## Cloud Providers
+
+AWS
+
+## Critical Systems
+
+* Power Grid Monitoring Systems
+* SCADA Infrastructure
+* OT Remote Access
+* Identity Management Platform
+* SIEM
+* Disaster Recovery Infrastructure
+* Physical Security Integration Systems
+* Cloud Data Analytics Platform
+
+## Data Classifications
+
+* Critical Infrastructure Data
+* Grid Telemetry
+* Internal Operations Data
+* Emergency Response Procedures
+* Restricted OT Credentials
+
+---
+
+# TEST SCENARIO 8 — ENTERPRISE HYBRID CLOUD COMPANY
+
+## Organization Industry
+
+Global Enterprise Technology Company
+
+## Organization Size
+
+48,000 employees
+
+## Regulatory Environment
+
+SOC 2, ISO 27001, GDPR
+
+## Cloud Providers
+
+AWS, Azure, Google Cloud Platform
+
+## Critical Systems
+
+* Hybrid Active Directory
+* Microsoft Entra ID
+* AWS IAM
+* Kubernetes Production Clusters
+* Enterprise ERP
+* Cloud Data Lake
+* SIEM & SOAR
+* VPN Infrastructure
+* CI/CD Platform
+
+## Data Classifications
+
+* Enterprise Intellectual Property
+* Customer Data
+* Internal Security Logs
+* Financial Records
+* Cloud Infrastructure Secrets
+
+---
+
+# WHAT YOU SHOULD EXPECT THE WORKFLOW TO GENERATE
+
+A strong Opal workflow should automatically produce:
+
+## Asset & Data Inventory
+
+* realistic infrastructure inventory
+* cloud environments
+* data classifications
+* business-critical systems
+* ownership mappings
+
+## Risk Register
+
+* inherent risk scores
+* likelihood values
+* impact values
+* residual risk
+* risk descriptions
+* treatment recommendations
+
+## Control Library
+
+* mapped to frameworks like:
+
+  * NIST CSF
+  * ISO 27001
+  * SOC 2
+  * HIPAA
+  * PCI-DSS
+* control objectives
+* implementation guidance
+
+## Evidence Management
+
+* screenshots required
+* log evidence
+* policy references
+* ticketing requirements
+* audit evidence requests
+
+## Compliance Matrix
+
+* framework mappings
+* control coverage
+* gap identification
+* overlapping compliance requirements
+
+## Security Policies
+
+* acceptable use
+* access control
+* incident response
+* cloud security
+* vendor management
+* encryption standards
+
+## Executive Dashboard
+
+* risk heatmaps
+* compliance posture
+* critical findings
+* top enterprise risks
+* remediation roadmap
+* governance maturity
+* residual risk visualization
+
+---
+
